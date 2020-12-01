@@ -9,12 +9,12 @@
 
 Asset
 
-∟Scene
+ ∟Scene
 
- ∟SampleScene:サンプルシーン シーン上にあるSphereを選択してInspectorからCloneObjsでオブジェクトをクローン
+  ∟SampleScene:サンプルシーン シーン上にあるSphereを選択してInspectorからCloneObjsでオブジェクトをクローン
  
-∟Scripts
+ ∟Scripts
 
- ∟CloneObjs:クローンする為のソースコード
+  ∟CloneObjs:クローンする為のソースコード
  
  
