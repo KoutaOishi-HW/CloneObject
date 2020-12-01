@@ -7,11 +7,14 @@
 
 Δプロジェクト説明
 
-
 Asset
+
 ∟Scene
+
  ∟SampleScene:サンプルシーン シーン上にあるSphereを選択してInspectorからCloneObjsでオブジェクトをクローン
+ 
 ∟Scripts
+
  ∟CloneObjs:クローンする為のソースコード
  
  
