@@ -6,6 +6,8 @@
 ・距離・上下位置を設定可能
 
 Δプロジェクト説明
+
+
 Asset
 ∟Scene
  ∟SampleScene:サンプルシーン シーン上にあるSphereを選択してInspectorからCloneObjsでオブジェクトをクローン
